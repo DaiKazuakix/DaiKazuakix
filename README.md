@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaiKazuakix
-- 👀 I’m interested in to learn biopython
-- 🌱 I’m currently learning python
+- 👀 I’m interested in to learn python, R, bioinformatics and omics science
+- 🌱 I’m currently learning python and data science
 - 💞️ I’m looking to collaborate on anyone
 
 <!---
